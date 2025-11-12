@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Pavan — My First Git Repository</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      max-width: 800px;
+      margin: 4rem auto;
+      padding: 0 1rem;
+      line-height: 1.6;
+      color: #111;
+      background: #f8fafc;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.2rem;
+    }
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 1.5rem;
+      box-shadow: 0 6px 18px rgba(16,24,40,0.06);
+    }
+    .location {
+      margin-top: 1rem;
+      font-style: italic;
+      color: #374151;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1># pavan</h1>
+    <p>My first git repository</p>
+  </header>
+
+  <main class="card">
+    <p>This is my first git repository.<br>
+    I am <strong>Pavan Walke</strong>.<br>
+    I am from <span class="location">Chhatrapati Sambhajinagar</span>.</p>
+  </main>
+</body>
+</html>
